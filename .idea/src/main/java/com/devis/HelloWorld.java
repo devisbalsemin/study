@@ -9,5 +9,7 @@ public class HelloWorld {
         System.out.println("Hello");
 
         int x=0;
+        System.out.println(x+1);
+
     }
 }

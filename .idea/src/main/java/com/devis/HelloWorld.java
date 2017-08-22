@@ -17,5 +17,6 @@ public class HelloWorld {
 
 
         //For Local 1.0.b222
+        //Works only for 1.0.b22
     }
 }
